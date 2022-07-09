@@ -1,21 +1,21 @@
-Официальная дока по React Reconciler
+1. Официальная дока по React Reconciler
 
 https://github.com/facebook/react/tree/main/packages/react-reconciler
 
 
 
-Исходники ReactTelegram
+2. Исходники ReactTelegram
 
 https://github.com/MYXOMOPX/react-telegram
 
 
 
-Кратенький доклад о том, как написать свой Renderer
+3. Кратенький доклад о том, как написать свой Renderer
 
 https://www.youtube.com/watch?v=E1G2rMKq8lc
 
 
 
-Более подробный доклад про Reconciler
+4. Более подробный доклад про Reconciler
 
 https://www.youtube.com/watch?v=hpVFlpvPsYc
