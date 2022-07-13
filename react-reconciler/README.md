@@ -19,3 +19,9 @@ https://www.youtube.com/watch?v=E1G2rMKq8lc
 4. Более подробный доклад про Reconciler
 
 https://www.youtube.com/watch?v=hpVFlpvPsYc
+
+
+
+5. Список прикольных рендереров React (там и pdf и музыку рендерят)
+
+https://github.com/chentsulin/awesome-react-renderer
